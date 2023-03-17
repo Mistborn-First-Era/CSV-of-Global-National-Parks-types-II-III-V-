@@ -1,4 +1,4 @@
-# CSV-of-National-Parks-types-II-III-V-
+# CSV-of-Global-National-Parks-types-II-III-V-
 
 Data used from https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA
 
